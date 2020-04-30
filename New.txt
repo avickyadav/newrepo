@@ -1,1 +1,2 @@
 this is the first line in git explanation
+A second line is being added 
